@@ -23,10 +23,6 @@ The dataset used for this project is `IMDb Movies India.csv`, which contains the
 - pandas
 - scikit-learn
 
-You can install the required libraries using the following command:
-
-```bash
-pip install pandas scikit-learn
 
 The script performs the following steps:
 
